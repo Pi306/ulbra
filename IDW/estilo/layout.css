@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+body{
+    background-color:#004d99;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 200%;
+    text-decoration: underline;
+
+}
+
+li {
+    color: black;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+ul {
+    list-style-type: square;
+    display: inline-block;
+}
+
+a{
+    color: black;
+}
+
+del{
+    font-weight: bold;
+    color: red;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    font-weight: bold;  
+    text-align: justify;
+    display: inline-block;
+}
+
+span{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+figure.foto-moldura{
+    display: inline-block;
+    border: 5px solid red;
+    box-shadow: 1px 1px 4px black;
+    
+}
+
+#font3{
+    font-size: 300% !important;
+    font-weight: bold;
+}
+
+#font1{
+    font-size: 200%;
+}
+
+#font2{
+    font-size:200%;
+}
